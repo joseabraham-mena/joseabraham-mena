@@ -1,2 +1,6 @@
-# joseabraham-mena
-Website for my projects
+# Jose Abraham Mena
+
+
+
+Website for my projects, articles and other stuff
+
