@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Abraham Mena: Primer Articulo"
+title: "Abraham Mena Primer Articulo"
 date: 2020-03-23
 ---
 
