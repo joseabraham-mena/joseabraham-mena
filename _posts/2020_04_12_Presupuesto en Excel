@@ -22,5 +22,17 @@ Este proyecto es el primero que he logrado terminar durante la cuarente de 2020 
 
 Abajo pueden encontrar un link para descargar el archivo e intrucciones en su uso
 
-### Como Usar
-### Descargas
+## Como Usar
+### Agregar Ingresos
+La hoja de calculo incluye automaticamente ciertas categorias y subcategorias de ingresos incluidas. Si desea añadir mas se puede hacer en la pestaña Lista.
+
+Agregar un ingreso es tan sencillo como hacer click en el boton adecuado, seleccionar la categoria adecuada, seleccion la subcategoria adecuada. 
+
+Luego se llena el resto de campos. El unico campo opcional es la Descripcion. 
+
+Si desea que un ingreso sea agregado como un ingreso recuerrente (por ejemplo su salario) solamente debe de seleccion la casilla que asi lo indica. 
+### Agregar Gastos
+
+El proceso para agrear un gasto es homologo al de agregar un ingreso. 
+
+## Descargas
