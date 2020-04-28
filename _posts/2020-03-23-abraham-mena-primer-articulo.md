@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abraham Mena: Primer Post"
-date: 2014-04-30
+date: 2020-03-30
 ---
 
 Mi primer articulo en esta pagina web que me hecho. Este es el dia 2 de la cuarentena por el COVID19.
