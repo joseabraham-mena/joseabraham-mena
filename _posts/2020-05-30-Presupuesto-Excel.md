@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Presupuesto Excel"
-date: 2020-04-27
+date: 2020-05-30
 ---
 
 # Presupuesto en Excel
