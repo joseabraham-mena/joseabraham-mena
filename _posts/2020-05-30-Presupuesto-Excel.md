@@ -5,7 +5,7 @@ date: 2020-05-30
 ---
 
 # Presupuesto en Excel
-## [Descargar]{{ site.url }}{{/download/presupuesto_excel/Presupuesto_Template}}
+### [Descargar](/download/presupuesto_excel/Presupuesto_Template)
 
 ## Una hoja de calculo automatizada para hacernos mas facil llevar en orden las finanzas
 
