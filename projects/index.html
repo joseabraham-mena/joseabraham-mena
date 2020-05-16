@@ -1,1 +1,11 @@
+---
+layout: default
+title: Abraham Mena Projects
+---
+	<h1>{{ page.title }}</h1>
+	<ul class="projects">
 
+	  {% for post in site.projects %}
+	    <li><span>{{ project.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ project.title }}">{{ project.title }}</a></li>
+	  {% endfor %}
+	</ul>
