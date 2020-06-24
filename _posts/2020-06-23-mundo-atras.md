@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Veces Siento que el Mundo me esta Dejando Atras"
+title: "A Veces Siento Que El Mundo Me Esta Dejando Atras"
 date: 2020-06-23
 ---
 
